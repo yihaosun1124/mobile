@@ -1,7 +1,6 @@
 # Model-Bellman Inconsistency Penalized Offline Policy Optimization (MOBILE)
-```
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yihaosun1124/mobile/blob/main/LICENSE)
-```
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/yihaosun1124/mobile/blob/main/LICENSE)
 
 Code for MOBILE: [Model-Bellman Inconsistency Penalized Offline Policy Optimization](https://openreview.net/forum?id=rwLwGPdzDD).
 
@@ -10,10 +9,9 @@ Code for MOBILE: [Model-Bellman Inconsistency Penalized Offline Policy Optimizat
 To install all the required dependencies:
 
 1. Install MuJoCo engine, which can be downloaded from [here](https://mujoco.org/download).
-   1. Install Python packages listed in `requirements.txt` using `pip install -r requirements.txt`. You should specify the version of `mujoco-py` in `requirements.txt` depending on the version of MuJoCo engine you have installed.
-
-2. Manually download and install `d4rl` package from [here](https://github.com/rail-berkeley/d4rl).
-3. Manually download and install `neorl` package from [here](https://github.com/polixir/NeoRL).
+2. Install Python packages listed in `requirements.txt` using `pip install -r requirements.txt`. You should specify the version of `mujoco-py` in `requirements.txt` depending on the version of MuJoCo engine you have installed.
+3. Manually download and install `d4rl` package from [here](https://github.com/rail-berkeley/d4rl).
+4. Manually download and install `neorl` package from [here](https://github.com/polixir/NeoRL).
 
 ## Usage
 
